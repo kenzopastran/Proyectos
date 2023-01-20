@@ -1,0 +1,33 @@
+* {
+    color: blue;
+    }
+p {
+    color: red;
+    width: 300px;
+}
+/** Esto es un comentario en CSS */
+h1 {
+    font-weight: bold;
+    color: gray;
+    margin: 20px;
+    padding: 50px;
+    border: 15px solid green;
+    
+}
+
+section {  
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#el1{ color: red;}
+#el2{ color: yellow;}
+#el3{ color: green;}
+
+.miclase{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: black;
+}
